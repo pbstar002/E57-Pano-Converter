@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <Pano>
+        <Name>Testname1</Name>
+        <Filepath>C:\</Filepath>
+        <CreationDateTime>10:15:37 2023-06-30</CreationDateTime>
+        <IsHDR>0</IsHDR>
+        <DefaultNumberShots>32</DefaultNumberShots>
+        <Pose>
+            <Rotation>
+                <Omega>100</Omega>
+                <Phi>200</Phi>
+                <Kappa>300</Kappa>
+            </Rotation>
+            <Translation>
+                <X>1.111</X>
+                <Y>2.222</Y>
+                <Z>3.333</Z>
+            </Translation>
+        </Pose>
+    </Pano>
+    <Pano>
+        <Name>Testname2</Name>
+        <Filepath>C:\</Filepath>
+        <CreationDateTime>10:15:37 2023-06-30</CreationDateTime>
+        <IsHDR>0</IsHDR>
+        <DefaultNumberShots>32</DefaultNumberShots>
+        <Pose>
+            <Rotation>
+                <Omega>100</Omega>
+                <Phi>200</Phi>
+                <Kappa>300</Kappa>
+            </Rotation>
+            <Translation>
+                <X>1.111</X>
+                <Y>2.222</Y>
+                <Z>3.333</Z>
+            </Translation>
+        </Pose>
+    </Pano>
+</struct>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image>
+    <name>image1.jpg</name>
+    <coordinates>
+        <x>123.456</x>
+        <y>789.012</y>
+        <z>345.678</z>
+    </coordinates>
+    <orientation>
+        <pitch>0.1</pitch>
+        <yaw>0.2</yaw>
+        <roll>0.3</roll>
+    </orientation>
+</image>
